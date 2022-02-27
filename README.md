@@ -57,6 +57,7 @@ Users should be able to:
 - [Flexbox froggy game](https://flexboxfroggy.com/)
 - [Freecodecamm: flexbox](https://www.freecodecamp.org/news/learn-flexbox-common-use-cases/)
 - [CSS tricks: flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS variables](https://developer.mozilla.org/fr/docs/Web/CSS/Using_CSS_custom_properties)
 
 
 ## Author
