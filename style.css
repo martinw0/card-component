@@ -3,6 +3,7 @@
     --very-dark-blue: hsl(233, 47%, 7%);
     --dark-desatured-blue: hsl(244, 38%, 16%);
     --soft-violet: hsl(277, 64%, 61%);
+    --soft-violet-transparent: hsla(277, 64%, 61%, 0.65);
     --white: hsl(0, 0%, 100%);
     --p-color: hsla(0, 0%, 100%, 0.75);
     --stat-head: hsla(0, 0%, 100%, 0.6);
@@ -60,6 +61,11 @@ h3 {
     font-family: 'Lexend Deca';
     font-weight: 400;
 }
+.image {
+    width: 540px;
+    height: 446px;
+    background: linear-gradient(var(--soft-violet-transparent),var(--soft-violet-transparent)),url(./images/image-header-desktop.jpg);
+}
 .attribution {
     font-size: 11px;
     text-align: center;
@@ -69,4 +75,10 @@ h3 {
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+@media all and (max-device-width: 480px)
+{
+    .image {
+        order: 1;
+    }
 }
