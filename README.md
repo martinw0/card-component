@@ -26,28 +26,28 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/martinw0/card-component)
+- Live Site URL: [GitHub pages](https://martinw0.github.io/card-component/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- CSS custom propertiesx
 - CSS Grid
 
 
 ### What I learned
 
-
+- variable in CSS
+- flexbox
 
 ### Continued development
 
